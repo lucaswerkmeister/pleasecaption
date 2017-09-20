@@ -6,7 +6,7 @@ politely reminds you that you forgot to add alt text to an image you posted.
 ## General UI
 
 * To get pleasecaption to watch your tweets, follow @pleasecaption on twitter
-  ** if your account is protected, it will ask to follow you back
+  * if your account is protected, it will ask to follow you back
 * If your twitter account is private, send @pleasecaption a DM with anything in it
 * To get pleasecaption to stop pestering you, block or softblock it. It won't
   attempt to refollow you unless you unfollow and refollow it.
